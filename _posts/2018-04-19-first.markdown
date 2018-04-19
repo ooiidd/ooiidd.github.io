@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "첫 게시글"
+date:   2015-04-19 08:43:59
+author: Ben Centra
+categories: Dummy
+tags: lorem
+---
+
+하이 
