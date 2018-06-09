@@ -38,7 +38,7 @@ tags: lorem
 ### 개발환경 : AutoHotkey
 ### 개발 인원 : 1명
 ### 개발 내용 : 세븐나이츠 게임 내에서 자동으로 동작하게 하는 매크로를 구현하였습니다. (현재는 지속적으로 개발하지 않아 세븐나이츠가 업데이트 되어 동작하지 않습니다.)
-![(assets/images/macro.jpg "test")
+![Alt text](assets/images/macro.jpg "test")
 
 # 2016년도 1학기(3-1)
 ### 컴퓨터 그래픽스 프로젝트(3D Model)
